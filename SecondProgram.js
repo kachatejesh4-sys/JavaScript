@@ -31,7 +31,3 @@ const studentResult = (...arg) => {
 
     return result
 }
-
-// Function call
-let studentDetails = studentResult("Tejesh", 85, 78, 92)
-console.log(studentDetails)
